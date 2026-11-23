@@ -17,6 +17,7 @@ A curated list of tools and workflows for turning long Twitch, Kick and YouTube 
 ## AI clipping tools (stream / VOD)
 
 - [OptimaClip](https://optimaclip.com) — AI clipping agent: takes a Twitch VOD, Kick VOD, YouTube link or upload, finds highlight moments with a virality score and a plain-English "why this clip", captions and reframes to 9:16, and schedules posts to 8 platforms. EDL/SRT export for Premiere, DaVinci and Final Cut. [Twitch](https://optimaclip.com/twitch-clip-maker) · [Kick](https://optimaclip.com/kick-clip-maker) · [Gaming](https://optimaclip.com/gaming-clip-maker)
+- [FluidCut](https://fluidcut.app) - Captures YouTube Live, Twitch and Kick streams while they run (beta) and clips finished streams from an uploaded file or YouTube link into captioned vertical clips.
 - [Eklipse](https://eklipse.gg) — AI highlight clipping aimed at gaming streamers.
 - [StreamLadder](https://streamladder.com) — Converts Twitch clips to vertical formats with layout templates.
 - [Powder](https://powder.gg) — AI gaming highlight detection.
